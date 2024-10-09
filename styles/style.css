@@ -201,9 +201,16 @@
   list-style-type: none;
 }
 
-.card__conv {
+.card_conven {
+  background-color: #fff;
+  border-radius: 6px;
+  box-sizing: border-box;
+  height: 420px;
+  width: 360px;
+}
+.card_cont_conv {
   background-color: blue;
-  height: 100%;
+  height: 2%;
   display: flex;
   flex-direction: column;
 }
