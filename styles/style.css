@@ -243,6 +243,7 @@
 
 .events__image {
   max-width: 100%;
+  position: relative;
 }
 
 .person {
@@ -294,6 +295,7 @@
   text-align: center;
   font-size: 14px;
   margin: 0;
+  position: absolute;
 }
 
 .convertirse {
