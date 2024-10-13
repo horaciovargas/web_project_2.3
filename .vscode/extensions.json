@@ -1,3 +1,4 @@
 {
-  "recomendaciones": ["esbenp.prettier-vscode"]
+  "recomendaciones": ["esbenp.prettier-vscode"],
+  "recommendations": ["mhutchie.git-graph"]
 }
