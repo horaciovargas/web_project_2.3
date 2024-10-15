@@ -267,19 +267,25 @@
   z-index: 3;
 }
 
-.person_name_cannon {
+.person__person_name_cannon {
   position: absolute;
-  bottom: 96px;
-  right: 125px;
+  bottom: 18px;
+  right: 216px;
   z-index: 3;
 }
 
-.person_name_mitchell {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+.person__person_name_mitchell {
+  position: absolute;
+  bottom: 18px;
+  left: 142px;
+  z-index: 3;
 }
 
 .person_name_tarter {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
+  top: 79px;
+  left: 159px;
+  z-index: 3;
 }
 
 .person__image {
