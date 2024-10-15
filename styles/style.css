@@ -238,6 +238,7 @@
   flex-shrink: 0;
   flex-basis: 780px;
   max-width: 780px;
+  position: relative;
 }
 
 .events__image {
@@ -255,18 +256,22 @@
 .person__person_name_feynman {
   position: absolute;
   top: -30px;
-  right: -319;
+  left: 319px;
   z-index: 3;
 }
 
 .person__person_name_burbidge {
   position: absolute;
-  top: 10px;
-  right: -30;
+  top: 96px;
+  right: 125px;
+  z-index: 3;
 }
 
 .person_name_cannon {
-  /* Utiliza los valores correctos de las propiedades top/right/bottom/left para posicionar el elemento */
+  position: absolute;
+  bottom: 96px;
+  right: 125px;
+  z-index: 3;
 }
 
 .person_name_mitchell {
