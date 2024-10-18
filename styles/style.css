@@ -236,8 +236,8 @@
 .events__cover {
   flex-grow: 1;
   flex-shrink: 0;
-  flex-basis: 790px;
-  max-width: 790px;
+  flex-basis: 780px;
+  max-width: 780px;
   position: relative;
 }
 
@@ -249,6 +249,7 @@
 .person {
   position: absolute;
   display: flex;
+  align-items: center;
   flex-direction: column;
   gap: 10px;
 }
