@@ -331,6 +331,7 @@
   padding: 0;
   margin: 100px 0 0;
   display: flex;
+  flex-basis: content;
   /* Agrega estilos */
 }
 
