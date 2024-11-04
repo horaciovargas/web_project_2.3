@@ -336,6 +336,8 @@
 }
 
 .step {
+  width: 220px;
+  padding: 40px;
   /* Agrega estilos */
 }
 
