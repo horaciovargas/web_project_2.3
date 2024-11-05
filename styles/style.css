@@ -401,6 +401,8 @@
 }
 
 .footer__social-icon {
+  font-size: 30px;
+  margin-right: 10px;
 }
 
 .footer__copyright {
