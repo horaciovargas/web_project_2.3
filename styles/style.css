@@ -384,15 +384,18 @@
 }
 
 .footer__column-heading {
+  margin-bottom: auto;
+  margin-left: 25px;
 }
 
 .footer__list {
   list-style-type: none;
-  padding: 0;
-  margin: 0;
+  padding: 15px;
+  margin: 15px;
 }
 
 .footer__list-item {
+  font-size: 17px;
 }
 
 .footer__column-link {
