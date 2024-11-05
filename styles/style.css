@@ -361,22 +361,26 @@
 
 .footer {
   box-sizing: border-box;
-  margin-top: 60px;
-  display: flex;
+  color: white;
+  background-color: black;
 }
 
 .footer__columns {
   display: flex;
   justify-content: center;
+  padding: 60px;
 }
 
 .footer__column_content_hours {
+  margin-left: auto;
 }
 
 .footer__column_content_social {
+  margin-left: 60px;
 }
 
 .footer__logo {
+  color: white;
 }
 
 .footer__column-heading {
@@ -400,4 +404,6 @@
 }
 
 .footer__copyright {
+  padding-left: 60px;
+  padding-bottom: 60px;
 }
