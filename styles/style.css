@@ -379,6 +379,7 @@
 }
 
 .footer__logo {
+  width: 58px;
   height: 80px;
 }
 
@@ -390,6 +391,7 @@
 .footer__list {
   list-style-type: none;
   padding-top: 20px;
+  margin-bottom: 10px;
 }
 
 .footer__list-item {
