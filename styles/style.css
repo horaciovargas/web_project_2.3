@@ -389,8 +389,7 @@
 
 .footer__list {
   list-style-type: none;
-  margin: 16px;
-  padding-top: 16px;
+  padding-top: 20px;
 }
 
 .footer__list-item {
@@ -400,8 +399,6 @@
 .footer__column-link {
   color: white;
   display: flex;
-  align-items: flex-start;
-  column-gap: normal;
   text-decoration: none;
 }
 
@@ -412,4 +409,5 @@
 }
 
 .footer__copyright {
+  margin-top: 100px;
 }
