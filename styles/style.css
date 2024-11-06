@@ -402,6 +402,8 @@
   color: white;
   display: flex;
   text-decoration: none;
+  align-items: center;
+  gap: 10px;
 }
 
 .footer__social-icon {
