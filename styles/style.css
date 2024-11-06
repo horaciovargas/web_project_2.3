@@ -362,7 +362,7 @@
   box-sizing: border-box;
   color: white;
   padding: 60px 80px;
-  background-color: #000000;
+  background-color: #1f1f1f;
 }
 
 .footer__columns {
@@ -386,12 +386,13 @@
 .footer__column-heading {
   margin-bottom: 20px;
   margin-left: auto;
+  margin-top: 0px;
 }
 
 .footer__list {
   list-style-type: none;
-  padding-top: 20px;
-  margin-bottom: 10px;
+  padding: 0px;
+  margin: 0px;
 }
 
 .footer__list-item {
